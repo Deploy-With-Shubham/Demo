@@ -1,0 +1,12 @@
+.primaryBtn {  
+    color: blueviolet;
+    
+}
+.secondaryBtn {
+    background-color: brown;
+    margin-left: 4px;
+}
+.container {
+    margin-top: 5px;
+    margin-left: 5px;
+}
