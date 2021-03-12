@@ -6,6 +6,7 @@ import CounterComponent from "./components/counterComponent"
 function App() {
   return (
     <Router>
+      <Route exact path = "/app"/>
       <Route exact path="/counter"component={CounterComponent}/>
     </Router>
   );
